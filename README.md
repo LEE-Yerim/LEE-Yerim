@@ -42,15 +42,20 @@ Techs that i've used at least once
 
 <details><summary>📚 Repository Summary</summary>
  <p>
-  
-  NEXT-STEP missions
-1. baseball-game precourse [repo](https://github.com/LEE-Yerim/java-baseball-precourse)
-2. racingcar-game [repo](https://github.com/LEE-Yerim/java-racingcar)
-3. lotto [repo](https://github.com/LEE-Yerim/java-lotto)
-4. blackjack [repo](https://github.com/LEE-Yerim/java-blackjack)
-
-STUDY
-  
+   
+   NEXT-STEP missions
+   1. baseball-game precourse [repo](https://github.com/LEE-Yerim/java-baseball-precourse)
+   2. racingcar-game [repo](https://github.com/LEE-Yerim/java-racingcar)
+   3. lotto [repo](https://github.com/LEE-Yerim/java-lotto)
+   4. blackjack [repo](https://github.com/LEE-Yerim/java-blackjack)
+   
+   STUDY
+   1. next-step [repo](https://github.com/LEE-Yerim/nextstep)
+   2. tech-course talk [repo](https://github.com/LEE-Yerim/tech-course-talk)
+   3. coding-test practice
+   - backjoon [repo](https://github.com/LEE-Yerim/baekjoon-practice)
+   - programmers [repo](https://github.com/LEE-Yerim/programmers)
+   
  </p>
  </details>
 
