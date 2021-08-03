@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I major in Mathematics Computer Science at Pusan National University
+🎓 I major in Mathematics and Computer Science at Pusan National University
 
 🧡 I want to be a software developer
 
