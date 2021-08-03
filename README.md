@@ -32,8 +32,8 @@ Techs that i've used at least once
 📚 Repository Summary
 
 NEXT-STEP missions
-1. pre-course baseball-game repo
-2. racing-car game repo
+1. precourse baseball-game repo
+2. racingcar-game repo
 3. lotto repo
 4. blackjack repo
 
