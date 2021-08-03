@@ -15,30 +15,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Pusan National University
-- Mathematics
-- Computer Science
+🎓 Pusan National University Mathematics Computer Science
 
+🧡 I want to be a software developer
+
+⚡ TECH STACK   
+Techs that i've used at least once
+<div align=center>c, c++, python, numpy, pandas, html, css, java</div>
+
+<!--
 🏆 Award
 - updating..
 
 📃 License
 - updating..
+-->
 
-⚡ TECH STACK  
-Techs that i've used at least once  
-- c, c++, python, numpy, pandas, html, css, java
-
-📚 Repository Summary
-
-NEXT-STEP missions
-1. precourse baseball-game repo
-2. racingcar-game repo
-3. lotto repo
-4. blackjack repo
+<details><summary>📚 Repository Summary</summary>
+ <p>
+  
+  NEXT-STEP missions
+1. baseball-game precourse [repo](https://github.com/LEE-Yerim/java-baseball-precourse)
+2. racingcar-game [repo](https://github.com/LEE-Yerim/java-racingcar)
+3. lotto [repo](https://github.com/LEE-Yerim/java-lotto)
+4. blackjack [repo](https://github.com/LEE-Yerim/java-blackjack)
 
 STUDY
-
+  
+ </p>
+ </details>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LEE-Yerim)](https://github.com/anuraghazra/github-readme-stats)
  
