@@ -32,6 +32,8 @@ Techs that i've used at least once
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> 
 <div align=center></div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-Yerim)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 🏆 Award
 - updating..
