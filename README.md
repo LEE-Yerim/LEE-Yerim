@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎓 Pusan National University
+🎓 Pusan National University
 - Mathematics
 - Computer Science
+
 🏆 Award
 - 
 📃 License
