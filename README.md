@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 Pusan National University, Mathematics, Computer Science
+🏆 Award
+📃 License
