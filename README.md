@@ -32,7 +32,7 @@ Techs that i've used at least once
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> 
 <div align=center></div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LEE-Yerim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 🏆 Award
@@ -46,21 +46,21 @@ Techs that i've used at least once
  <p>
    
    NEXT-STEP missions
-   1. baseball-game precourse [repo](https://github.com/LEE-Yerim/java-baseball-precourse)
-   2. racingcar-game [repo](https://github.com/LEE-Yerim/java-racingcar)
-   3. lotto [repo](https://github.com/LEE-Yerim/java-lotto)
-   4. blackjack [repo](https://github.com/LEE-Yerim/java-blackjack)
+   1. baseball-game precourse [repo](https://github.com/plumwiserim/java-baseball-precourse)
+   2. racingcar-game [repo](https://github.com/plumwiserim/java-racingcar)
+   3. lotto [repo](https://github.com/plumwiserim/java-lotto)
+   4. blackjack [repo](https://github.com/plumwiserim/java-blackjack)
    
    STUDY
-   1. next-step [repo](https://github.com/LEE-Yerim/nextstep)
-   2. tech-course talk [repo](https://github.com/LEE-Yerim/tech-course-talk)
+   1. next-step [repo](https://github.com/plumwiserim/nextstep)
+   2. tech-course talk [repo](https://github.com/plumwiserim/tech-course-talk)
    3. coding-test practice
-   - backjoon [repo](https://github.com/LEE-Yerim/baekjoon-practice)
-   - programmers [repo](https://github.com/LEE-Yerim/programmers)
+   - backjoon [repo](https://github.com/plumwiserim/baekjoon-practice)
+   - programmers [repo](https://github.com/plumwiserim/programmers)
    
  </p>
  </details>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LEE-Yerim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
  
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLEE-Yerim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplumwiserim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
