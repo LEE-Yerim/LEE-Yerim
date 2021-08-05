@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 
 ⚡ TECH STACK   
 Techs that i've used at least once  
-  
+
+<!--
+https://simpleicons.org/
+-->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
