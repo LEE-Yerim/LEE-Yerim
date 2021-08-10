@@ -5,7 +5,9 @@
 
 🧡 I want to be a software developer
 
-⚡ TECH STACK   
+<details><summary>⚡ TECH STACK [Click!] </summary>
+ <p>
+  
 Techs that i've used at least once  
 
 <!--
@@ -25,9 +27,12 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a> 
 <div align=center></div>
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
+ </p>
+ </details>
+ 
 <!--
 🏆 Award
 - updating..
@@ -36,7 +41,7 @@ https://simpleicons.org/
 - updating..
 -->
 
-<details><summary>📚 Repository Summary</summary>
+<details><summary>📚 Repository Summary [Click!]</summary>
  <p>
    
    NEXT-STEP missions
