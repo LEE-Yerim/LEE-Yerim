@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 I major in Mathematics and Computer Science at Pusan National University
 
-🧡 I want to be a software developer
+❤️ I want to be a software developer
 
 <details><summary>⚡ TECH STACK [Click!] </summary>
  <p>
