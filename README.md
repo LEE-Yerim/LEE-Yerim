@@ -53,9 +53,9 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/MriaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>
 <div align=center></div>
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
  </p>
  </details>
