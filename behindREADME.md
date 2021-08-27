@@ -37,6 +37,18 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/MriaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AzureDataExplorer-0078D4?style=flat-square&logo=azuredataexplorer&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AzureFunctions-0062AD?style=flat-square&logo=azurefunctions&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AzureDevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <div align=center></div>
 
 
