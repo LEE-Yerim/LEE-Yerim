@@ -86,7 +86,7 @@ https://simpleicons.org/
 
 <details><summary> Github Stats [Click!]</summary>
 
-  
+  <br/>
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -100,17 +100,17 @@ https://simpleicons.org/
    2. data analysis [repo](https://github.com/plumwiserim/data-analysis)
   3. [C++]
   4. [HTML]
-  
+  <br/>
 📚 NEXT-STEP missions 
    1. [Java] baseball-game precourse [repo](https://github.com/plumwiserim/java-baseball-precourse)
    2. [Java] racingcar-game [repo](https://github.com/plumwiserim/java-racingcar)
    3. [Java] lotto [repo](https://github.com/plumwiserim/java-lotto)
    4. [Java] blackjack [repo](https://github.com/plumwiserim/java-blackjack)
-  
+  <br/>
 📚 NEXT-STEP missions 
   1. [Swift]
   2. [Swift]
-    
+    <br/>
 ✏️ STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
    2. tech-course talk updating...
