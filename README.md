@@ -84,7 +84,7 @@ https://simpleicons.org/
 4. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.)
 5. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
 
-<details><summary> Github Stats [Click!]</summary>
+<details><summary> ### Github Stats [Click!]</summary>
 
   <br/>
  
@@ -92,7 +92,7 @@ https://simpleicons.org/
 
 </details>
 
-<details><summary> Repository Summary [Click!]</summary>
+<details><summary> ### Repository Summary [Click!]</summary>
  <p>
   
 🏫 PNU classes 
@@ -120,9 +120,8 @@ https://simpleicons.org/
 ✏️ STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
    2. tech-course talk updating...
-   3. Coding-Test practice
-   - backjoon [repo](https://github.com/plumwiserim/baekjoon-practice)
-   - programmers updating...
+   3. [Coding-Test] backjoon [repo](https://github.com/plumwiserim/baekjoon-practice)
+   4. [Coding-Test] programmers updating...
   
  </p>
  </details>
