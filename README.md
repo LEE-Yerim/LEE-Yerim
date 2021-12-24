@@ -96,15 +96,21 @@ https://simpleicons.org/
  <p>
   
 🏫 PNU classes 
-   1. python programming [repo](https://github.com/plumwiserim/Python_Programming)
+   1. [Python] programming [repo](https://github.com/plumwiserim/Python_Programming)
    2. data analysis [repo](https://github.com/plumwiserim/data-analysis)
-  
+  3. [C++]
+  4. [HTML]
+
 📚 NEXT-STEP missions 
-   1. baseball-game precourse [repo](https://github.com/plumwiserim/java-baseball-precourse)
-   2. racingcar-game [repo](https://github.com/plumwiserim/java-racingcar)
-   3. lotto [repo](https://github.com/plumwiserim/java-lotto)
-   4. blackjack [repo](https://github.com/plumwiserim/java-blackjack)
-   
+   1. [Java] baseball-game precourse [repo](https://github.com/plumwiserim/java-baseball-precourse)
+   2. [Java] racingcar-game [repo](https://github.com/plumwiserim/java-racingcar)
+   3. [Java] lotto [repo](https://github.com/plumwiserim/java-lotto)
+   4. [Java] blackjack [repo](https://github.com/plumwiserim/java-blackjack)
+
+📚 NEXT-STEP missions 
+  1. [Swift]
+  2. [Swift]
+  
 ✏️ STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
    2. tech-course talk updating...
