@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
 
-<center> ⚡ TECH STACK ⚡ </center>
- <p align="center">
+<div align="center"> ⚡ TECH STACK ⚡
+ <p>
   
  Techs that i've used at least once 
 
@@ -61,13 +61,14 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<div align=center></div>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
 
  </p>
+ </div>
 
 🏆 Award
 - updating..
