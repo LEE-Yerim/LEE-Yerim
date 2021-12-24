@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I major in Mathematics and Computer Science at Pusan National University
-
-❤️ I want to be a software developer
+🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
 
 <details><summary>⚡ TECH STACK [Click!] </summary>
  <p>
@@ -72,13 +70,15 @@ https://simpleicons.org/
  </p>
  </details>
  
-<!--
 🏆 Award
 - updating..
 
 📃 License
-- updating..
--->
+1. [대한상공회의소] 워드프로세서 1급 (2010.05.28)
+2. [대한상공회의소] 컴퓨터활용능력 2급 (2010.10.29)
+3. [대한상공회의소] 컴퓨터활용능력 1급 (2021.09.24)
+4. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.)
+5. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
 
 <details><summary>📚 Repository Summary [Click!]</summary>
  <p>
