@@ -15,16 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
 
-<div align="center"> ⚡ TECH STACK ⚡
- <p>
-  
+
+<div align="center"> 
+ 
+ 🎓
+ I got bachelor's degree in Mathematics and Computer Science at Pusan National University
+ 
+ ⚡ TECH STACK ⚡ 
  Techs that i've used at least once 
 
 <!--
 https://simpleicons.org/
 -->
+ 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/></a>
@@ -62,12 +66,10 @@ https://simpleicons.org/
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-
- </p>
  </div>
 
 🏆 Award
