@@ -23,7 +23,7 @@ Here are some ideas to get you started:
  
  🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  
- ⚡ TECH STACK ⚡ 
+ ### ⚡ TECH STACK ⚡ 
  
  Techs that i've used at least once 
 
@@ -74,10 +74,10 @@ https://simpleicons.org/
 
  </div>
 
-🏆 Award
+### 🏆 Award
 - updating..
 
-📃 License
+### 📃 License
 1. [대한상공회의소] 워드프로세서 1급 (2010.05.28)
 2. [대한상공회의소] 컴퓨터활용능력 2급 (2010.10.29)
 3. [대한상공회의소] 컴퓨터활용능력 1급 (2021.09.24)
@@ -100,17 +100,23 @@ https://simpleicons.org/
    2. data analysis [repo](https://github.com/plumwiserim/data-analysis)
   3. [C++]
   4. [HTML]
+  
   <br/>
+  
 📚 NEXT-STEP missions 
    1. [Java] baseball-game precourse [repo](https://github.com/plumwiserim/java-baseball-precourse)
    2. [Java] racingcar-game [repo](https://github.com/plumwiserim/java-racingcar)
    3. [Java] lotto [repo](https://github.com/plumwiserim/java-lotto)
    4. [Java] blackjack [repo](https://github.com/plumwiserim/java-blackjack)
+  
   <br/>
+  
 📚 NEXT-STEP missions 
   1. [Swift]
   2. [Swift]
-    <br/>
+    
+  <br/>
+  
 ✏️ STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
    2. tech-course talk updating...
