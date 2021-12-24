@@ -93,9 +93,8 @@ https://simpleicons.org/
   
 🏫 PNU classes 
    1. [Python] 컴퓨터시스템입문 [repo](https://github.com/plumwiserim/Python_Programming)
-   2. data analysis [repo](https://github.com/plumwiserim/data-analysis)
-   3. [C++] C++ 프로그래밍 [repo](https://github.com/plumwiserim/CPP-Programming)
-   4. [HTML] [repo](https://github.com/plumwiserim/html-programming)
+   2. [C++] C++ 프로그래밍 [repo](https://github.com/plumwiserim/CPP-Programming)
+   3. [HTML] [repo](https://github.com/plumwiserim/html-programming)
   
   <br/>
   
@@ -108,10 +107,10 @@ https://simpleicons.org/
   <br/>
   
 📚 소프트웨어교육센터
-  1. [Linux] 오픈소스SW특강「오픈소스를 활용한 프로그래밍 과정」
-  2. Data-Analysis [PNU AI 아카데미] 데이터분석 입문과 응용
-  3. [Swift] SW전공자를 위한 개발자 과정 「Swift 기반 iOS 모바일 개발」
-  4. [Swift] SW전공자를 위한 개발자 과정 『iOS Hands-On Project - Dogstagram』
+  1. Data-Analysis [PNU AI 아카데미] 데이터분석 입문과 응용 [repo](https://github.com/plumwiserim/data-analysis)
+  2. [Linux] 오픈소스SW특강「오픈소스를 활용한 프로그래밍 과정」[repo](https://github.com/plumwiserim/Linux-Programming)
+  3. [Swift] SW전공자를 위한 개발자 과정 「Swift 기반 iOS 모바일 개발」[repo](https://github.com/plumwiserim/Swift-programming)
+  4. [Swift] SW전공자를 위한 개발자 과정 『iOS Hands-On Project - Dogstagram』[repo](https://github.com/plumwiserim/Swift-programming-2)
     
   <br/>
   
