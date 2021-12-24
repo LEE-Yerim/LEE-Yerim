@@ -80,7 +80,9 @@ https://simpleicons.org/
 4. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.)
 5. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
 
-### <details><summary> Github Stats [Click!]</summary>
+<details><summary> Github Stats [Click!]</summary>
+
+  <br/>
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
