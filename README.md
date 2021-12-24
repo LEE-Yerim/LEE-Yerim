@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
  
  🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  
@@ -85,8 +81,6 @@ https://simpleicons.org/
 5. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
 
 ### <details><summary> Github Stats [Click!]</summary>
-
-  <br/>
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
