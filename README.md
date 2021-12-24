@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 
  
- 🎓
- 
- I got bachelor's degree in Mathematics and Computer Science at Pusan National University
+ 🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  
  ⚡ TECH STACK ⚡ 
  
@@ -108,7 +106,11 @@ https://simpleicons.org/
   
  </p>
  </details>
-
+ 
+<details><summary>📚 github stats [Click!]</summary>
+  <p>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
+ </details>
  
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplumwiserim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
