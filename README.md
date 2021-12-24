@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
 
-<center>⚡ TECH STACK ⚡</center>
+<center> ⚡ TECH STACK ⚡ </center>
  <p>
   
-<center>Techs that i've used at least once  </center?
+ <center>Techs that i've used at least once  </center>
 
 <!--
 https://simpleicons.org/
@@ -68,8 +68,7 @@ https://simpleicons.org/
 
 
  </p>
- </center>
- 
+
 🏆 Award
 - updating..
 
