@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
 
-<details><summary>⚡ TECH STACK [Click!] </summary>
+<details>⚡ TECH STACK [Click!]
  <p>
   
 Techs that i've used at least once  
