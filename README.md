@@ -1,6 +1,6 @@
 <div align="center"> 
  
- ### Hi there 👋
+ * Hi there 👋 *
 
 <!--
 **LEE-Yerim/LEE-Yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -88,7 +88,7 @@ https://simpleicons.org/
 
 </details>
 
-### <details><summary> Repository Summary [Click!]</summary>
+<details><summary> Repository Summary [Click!]</summary>
  <p>
   
 🏫 PNU classes 
