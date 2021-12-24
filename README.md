@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <center>⚡ TECH STACK ⚡</center>
  <p>
   
-Techs that i've used at least once  
+<center>Techs that i've used at least once  </center?
 
 <!--
 https://simpleicons.org/
