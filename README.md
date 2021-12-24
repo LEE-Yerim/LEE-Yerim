@@ -1,6 +1,6 @@
 <div align="center"> 
  
- *Hi there 👋*
+ **Hi there 👋**
 
 <!--
 **LEE-Yerim/LEE-Yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  
  🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  
- ### ⚡ TECH STACK ⚡ 
+ **⚡ TECH STACK ⚡**
  
  Techs that i've used at least once 
 
@@ -70,10 +70,10 @@ https://simpleicons.org/
 
  </div>
 
-### 🏆 Award
+**🏆 Award**
 - updating..
 
-### 📃 License
+**📃 License**
 1. [대한상공회의소] 워드프로세서 1급 (2010.05.28)
 2. [대한상공회의소] 컴퓨터활용능력 2급 (2010.10.29)
 3. [대한상공회의소] 컴퓨터활용능력 1급 (2021.09.24)
@@ -88,7 +88,7 @@ https://simpleicons.org/
 
 </details>
 
-<details><summary> Repository Summary [Click!]</summary>
+<details><summary> **Repository Summary** [Click!]</summary>
  <p>
   
 🏫 PNU classes 
