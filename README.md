@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center"> 
+ 
+ ### Hi there 👋
 
 <!--
 **LEE-Yerim/LEE-Yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,12 +19,14 @@ Here are some ideas to get you started:
 
 
 
-<div align="center"> 
+
  
  🎓
+ 
  I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  
  ⚡ TECH STACK ⚡ 
+ 
  Techs that i've used at least once 
 
 <!--
