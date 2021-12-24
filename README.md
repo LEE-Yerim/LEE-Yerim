@@ -121,6 +121,7 @@ https://simpleicons.org/
    3. [Coding-Test] backjoon [repo](https://github.com/plumwiserim/baekjoon-practice)
    4. [Coding-Test] programmers updating...
    5. [Algorithm]
+   6. [WikiDocs] 딥러닝을 이용한 자연어 처리 입문
   
  </p>
  </details>
