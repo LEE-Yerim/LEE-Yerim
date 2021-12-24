@@ -88,7 +88,7 @@ https://simpleicons.org/
 
 </details>
 
-<details><summary> <h3>Repository Summary [Click!]</h3></summary>
+<details><h3><summary> Repository Summary [Click!]</summary></h3>
  <p>
   
 🏫 PNU classes 
