@@ -87,20 +87,20 @@ https://simpleicons.org/
 <details><summary> Repository Summary [Click!]</summary>
  <p>
   
-   -------------- PNU classes --------------
+    PNU classes 
    1. python programming [repo](https://github.com/plumwiserim/Python_Programming)
    2. data analysis [repo](https://github.com/plumwiserim/data-analysis)
   
-   ---------- NEXT-STEP missions ----------
+    NEXT-STEP missions 
    1. baseball-game precourse [repo](https://github.com/plumwiserim/java-baseball-precourse)
    2. racingcar-game [repo](https://github.com/plumwiserim/java-racingcar)
    3. lotto [repo](https://github.com/plumwiserim/java-lotto)
    4. blackjack [repo](https://github.com/plumwiserim/java-blackjack)
    
-   ----------------- STUDY -----------------
+    STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
    2. tech-course talk updating...
-   3. coding-test practice
+   3. Coding-Test practice
    - backjoon [repo](https://github.com/plumwiserim/baekjoon-practice)
    - programmers updating...
   
@@ -109,6 +109,7 @@ https://simpleicons.org/
  
 <details><summary> Github Stats [Click!]</summary>
 
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
