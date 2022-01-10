@@ -117,7 +117,7 @@ https://simpleicons.org/
 ✏️ STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
    2. tech-course talk updating...
-   3. [Coding-Test] backjoon [repo](https://github.com/plumwiserim/baekjoon-practice)
+   3. [Coding-Test] backjoon [repo](https://github.com/plumwiserim/baekjoon)
    4. [Coding-Test] programmers updating... 
    5. [Algorithm]
   6. 패스트캠퍼스 스프링의 정석 [repo](https://github.com/plumwiserim/spring_basic) 
