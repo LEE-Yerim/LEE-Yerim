@@ -118,9 +118,10 @@ https://simpleicons.org/
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
    2. tech-course talk updating...
    3. [Coding-Test] backjoon [repo](https://github.com/plumwiserim/baekjoon-practice)
-   4. [Coding-Test] programmers updating...
+   4. [Coding-Test] programmers updating... 
    5. [Algorithm]
-   6. [WikiDocs] 딥러닝을 이용한 자연어 처리 입문
+  6. 패스트캠퍼스 스프링의 정석 [repo](https://github.com/plumwiserim/spring_basic) 
+  7. [WikiDocs] 딥러닝을 이용한 자연어 처리 입문
   
  </p>
  </details>
