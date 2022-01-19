@@ -98,7 +98,7 @@ https://simpleicons.org/
    1. 컴퓨팅사고
    2. [Python] 기초컴퓨터프로그래밍 
    3. [Python] 컴퓨터시스템입문 [repo](https://github.com/plumwiserim/Python_Programming) 
-   4. [Python] 수학적 프로그래밍
+   4. [Python] 수학적 프로그래밍 [repo](https://github.com/plumwiserim/Python_Programming-2)
    5. [C++] C++ 프로그래밍 [repo](https://github.com/plumwiserim/CPP-Programming) 
    6. [HTML] 소프트웨어융합기초 1[repo](https://github.com/plumwiserim/html-programming)
    7. [DA] 소프트웨어융합기초 2 [repo](https://github.com/plumwiserim/data-analysis)
