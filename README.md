@@ -121,13 +121,13 @@ https://simpleicons.org/
   2. [Data-Analysis] [PNU AI 아카데미] 데이터분석 입문과 응용 [repo](https://github.com/plumwiserim/data-analysis-2)
   3. [Swift] SW전공자를 위한 개발자 과정 「Swift 기반 iOS 모바일 개발」 [repo](https://github.com/plumwiserim/Swift-programming)
   4. [Swift] SW전공자를 위한 개발자 과정 『iOS Hands-On Project - Dogstagram』 [repo](https://github.com/plumwiserim/Swift-programming-2)
-  5. [R] 여대생 취업역량개발 프로그램 한국자격기술인증원 DB분석전문가
+  5. [R] 여대생 취업역량개발 프로그램 한국자격기술인증원 DB분석전문가 [repo](https://github.com/plumwiserim/R-programming)
     
   <br/>
   
 ✏️ STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
-   2. tech-course talk updating...
+   2. tech-course talk 
    3. [Coding-Test] backjoon [repo](https://github.com/plumwiserim/baekjoon)
    4. [Coding-Test] programmers [repo](https://github.com/plumwiserim/programmers) 
    5. [Algorithm] 알고리즘 스터디
