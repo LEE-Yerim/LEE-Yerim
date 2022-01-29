@@ -81,7 +81,7 @@ https://simpleicons.org/
 5. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
 6. [한국산업인력공단] 정보처리기사 (2022.)
 7. [한국데이터산업진흥원] 빅데이터분석기사 (2022.)
-
+8. [한국방송통신전파진흥원] 정보보안기사(2022.)
 
 <details><summary> Github Stats [Click!]</summary>
 
