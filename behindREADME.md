@@ -78,11 +78,12 @@ https://simpleicons.org/
 1. [대한상공회의소] 워드프로세서 1급 (2010.05.28)
 2. [대한상공회의소] 컴퓨터활용능력 2급 (2010.10.29)
 3. [대한상공회의소] 컴퓨터활용능력 1급 (2021.09.24)
-4. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.)
-5. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
-6. [한국산업인력공단] 정보처리기사 (2022.)
-7. [한국데이터산업진흥원] 빅데이터분석기사 (2022.)
-
+4. [한국자격기술인증원] DB분석전문가 (2022.02.16)
+5. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.)
+6. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
+7. [한국산업인력공단] 정보처리기사 (2022.)
+8. [한국데이터산업진흥원] 빅데이터분석기사 (2022.)
+9. [한국방송통신전파진흥원] 정보보안기사(2022.)
 
 <details><summary> Github Stats [Click!]</summary>
 
@@ -99,9 +100,9 @@ https://simpleicons.org/
    1. 컴퓨팅사고
    2. [Python] 기초컴퓨터프로그래밍 
    3. [Python] 컴퓨터시스템입문 [repo](https://github.com/plumwiserim/Python_Programming) 
-   4. [Python] 수학적 프로그래밍 [repo](https://github.com/plumwiserim/Python_Programming-2)
+   4. [Python] 수학적 프로그래밍 [repo](https://github.com/plumwiserim/Python-Programming-2)
    5. [C++] C++ 프로그래밍 [repo](https://github.com/plumwiserim/CPP-Programming) 
-   6. [HTML] 소프트웨어융합기초 1[repo](https://github.com/plumwiserim/html-programming)
+   6. [HTML] 소프트웨어융합기초 1 [repo](https://github.com/plumwiserim/html-programming)
    7. [DA] 소프트웨어융합기초 2 [repo](https://github.com/plumwiserim/data-analysis)
    8. [DS] 소프트웨어융합기초 3 
    9. [DS] 자료구조
@@ -118,17 +119,17 @@ https://simpleicons.org/
   <br/>
   
 📚 소프트웨어교육센터
-  1. [Linux] 오픈소스SW특강「오픈소스를 활용한 프로그래밍 과정」[repo](https://github.com/plumwiserim/Linux-Programming)
+  1. [Linux] 오픈소스SW특강「오픈소스를 활용한 프로그래밍 과정」 [repo](https://github.com/plumwiserim/Linux-Programming)
   2. [Data-Analysis] [PNU AI 아카데미] 데이터분석 입문과 응용 [repo](https://github.com/plumwiserim/data-analysis-2)
-  3. [Swift] SW전공자를 위한 개발자 과정 「Swift 기반 iOS 모바일 개발」[repo](https://github.com/plumwiserim/Swift-programming)
-  4. [Swift] SW전공자를 위한 개발자 과정 『iOS Hands-On Project - Dogstagram』[repo](https://github.com/plumwiserim/Swift-programming-2)
-  5. [DB-Analysis] 여대생 취업역량개발 프로그램 한국자격기술인증원 DB분석전문가
+  3. [Swift] SW전공자를 위한 개발자 과정 「Swift 기반 iOS 모바일 개발」 [repo](https://github.com/plumwiserim/Swift-programming)
+  4. [Swift] SW전공자를 위한 개발자 과정 『iOS Hands-On Project - Dogstagram』 [repo](https://github.com/plumwiserim/Swift-programming-2)
+  5. [R] 여대생 취업역량개발 프로그램 한국자격기술인증원 DB분석전문가 [repo](https://github.com/plumwiserim/R-programming)
     
   <br/>
   
 ✏️ STUDY 
    1. next-step [repo](https://github.com/plumwiserim/nextstep)
-   2. tech-course talk updating...
+   2. tech-course talk 
    3. [Coding-Test] backjoon [repo](https://github.com/plumwiserim/baekjoon)
    4. [Coding-Test] programmers [repo](https://github.com/plumwiserim/programmers) 
    5. [Algorithm] 알고리즘 스터디
