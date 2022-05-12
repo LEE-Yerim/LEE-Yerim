@@ -1,4 +1,4 @@
-```
+'''
 <div align="center"> 
  
  **Hi there 👋**
@@ -79,8 +79,8 @@ https://simpleicons.org/
 2. [대한상공회의소] 컴퓨터활용능력 2급 (2010.10.29)
 3. [대한상공회의소] 컴퓨터활용능력 1급 (2021.09.24)
 4. [한국자격기술인증원] DB분석전문가 (2022.02.16)
-5. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.)
-6. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.)
+5. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.03.25)
+6. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.04.08)
 7. [한국산업인력공단] 정보처리기사 (2022.)
 8. [한국데이터산업진흥원] 빅데이터분석기사 (2022.)
 9. [한국방송통신전파진흥원] 정보보안기사(2022.)
@@ -143,4 +143,4 @@ https://simpleicons.org/
   
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fplumwiserim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-```
+'''
