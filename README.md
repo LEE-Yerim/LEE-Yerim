@@ -40,6 +40,10 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> 
@@ -80,7 +84,7 @@ https://simpleicons.org/
 4. [한국자격기술인증원] DB분석전문가 (2022.02.16)
 5. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.03.25)
 6. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.04.08)
-7. [한국산업인력공단] 정보처리기사 (2022.)
+7. [한국산업인력공단] 정보처리기사 (2022.06)
 8. [한국데이터산업진흥원] 빅데이터분석기사 (2022.)
 9. [한국방송통신전파진흥원] 정보보안기사(2022.)
 
