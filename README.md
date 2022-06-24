@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
+ I am AI Engineer 
+ 
  🎓 I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  
  **⚡ TECH STACK ⚡**
@@ -49,6 +51,7 @@ https://simpleicons.org/
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> 
 
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/></a> 
