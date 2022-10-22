@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
  
  ```
- I'm working on AI Engineer, INEEJI
+ I'm working on AI Engineer
  
  I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  ```
