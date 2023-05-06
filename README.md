@@ -1,8 +1,6 @@
 <div align="center"> 
  
- **Hi there 👋**
-
-<!--
+ <!--
 **LEE-Yerim/LEE-Yerim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 -->
  
  ```
- I'm working on AI Engineer
+ Hi, I'm working on AI Engineer
  
  I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  ```
