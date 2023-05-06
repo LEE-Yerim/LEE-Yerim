@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Yerim 😄
  
  ```
- Hi, I'm working on AI Engineer
+ I'm working on AI Engineer
  
  I got bachelor's degree in Mathematics and Computer Science at Pusan National University
  ```
@@ -80,9 +82,13 @@ https://simpleicons.org/
 -->
 
  </div>
-
+ 
 **🏆 Award**
 - updating..
+
+<!--
+**🏆 Project**
+-->
 
 **📃 License**
 1. [대한상공회의소] 워드프로세서 1급 (2010.05.28)
