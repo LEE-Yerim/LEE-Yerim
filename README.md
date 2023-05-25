@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+</div>
 
-# Hi, I'm Yerim 😄
- 
- ```
- I'm working on AI Engineer
- 
- I got bachelor's degree in Mathematics and Computer Science at Pusan National University
- ```
- 
- **⚡ TECH STACK ⚡**
+## Hi, there! I'm Yerim 😄
+
+I studied Mathematics and Computer Science at Pusan National University 
+
+I'm interested in engineering AI software, analyzing and predicting time series data
+
+<br>        
+
+**⚡ TECH STACK**
 
 <!--
 https://simpleicons.org/
@@ -81,30 +83,35 @@ https://simpleicons.org/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
- </div>
- 
+
+<!-- 
 **🏆 Award**
 - updating..
 
-<!--
+
 **🏆 Project**
 -->
 
-**📃 License**
+<br>   
+
+**📃 Certification**
+<!-- 
 1. [대한상공회의소] 워드프로세서 1급 (2010.05.28)
 2. [대한상공회의소] 컴퓨터활용능력 2급 (2010.10.29)
 3. [대한상공회의소] 컴퓨터활용능력 1급 (2021.09.24)
-4. [한국자격기술인증원] DB분석전문가 (2022.02.16)
-5. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.03.25)
-6. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.04.08)
-7. [한국산업인력공단] 정보처리기사 (2022.06.17)
-8. [한국데이터산업진흥원] 빅데이터분석기사 (2023.07.)
-9. [한국데이터산업진흥원] 데이터 분석 전문가(ADP) (2023.12.)
-<!-- 9. [한국방송통신전파진흥원] 정보보안기사(2022.) -->
+4. [한국자격기술인증원] DB분석전문가 (2022.02.16) -->
+1. [한국데이터산업진흥원] 데이터 분석 준전문가(ADsP) (2022.03.25)
+2. [한국데이터산업진흥원] SQL 개발자(SQLD) (2022.04.08)
+3. [한국산업인력공단] 정보처리기사 (2022.06.17)
+4. [한국데이터산업진흥원] 빅데이터분석기사 (2023.07.)
+<!-- 9. [한국데이터산업진흥원] 데이터 분석 전문가(ADP) (2023.12.) 
+10. [한국방송통신전파진흥원] 정보보안기사(2022.) -->
+
+<br>   
 
 <details><summary> Github Stats [Click!]</summary>
 
-  <br/>
+<br>   
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=plumwiserim)](https://github.com/anuraghazra/github-readme-stats)
 
