@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Hi, there! I'm Yerim 😄
 
-I studied Mathematics and Computer Science at Pusan National University 
+I got a Bachelor's degree in Mathematics and Computer Science at Pusan National University 
 
 I'm interested in engineering AI software, analyzing and predicting time series data
 
@@ -94,7 +94,7 @@ https://simpleicons.org/
 
 <br>   
 
-**📃 Certification**
+**📃 License**
 <!-- 
 1. [대한상공회의소] 워드프로세서 1급 (2010.05.28)
 2. [대한상공회의소] 컴퓨터활용능력 2급 (2010.10.29)
@@ -109,7 +109,7 @@ https://simpleicons.org/
 
 <br>   
 
-<details><summary> Github Stats [Click!]</summary>
+<details><summary> Github Stats (Click!)</summary>
 
 <br>   
  
@@ -117,7 +117,7 @@ https://simpleicons.org/
 
 </details>
 
-<details><summary> Repository Summary [Click!]</summary>
+<details><summary> Repository Summary (Click!)</summary>
  <p>
   
 🏫 PNU classes 
